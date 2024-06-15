@@ -59,9 +59,6 @@ application:
       
       - name: 'Cats-Team'
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
-      
-      - name: 'XXKiller'
-        path: 'https://raw.githubusercontent.com/DoingDog/XXKiller/main/w.txt'
 
     #本地规则文件
     local:
@@ -76,8 +73,8 @@ application:
       ADFS AdBlock ${type}
       Last Modified: ${date}
       Homepage: https://github.com/fordes123/ad-filters-subscriber/
-      From: AdGuard anti-AD 秋风 大萌主 jerryn70 adblock cjx-annoyance i-dont-care-about-cookies
-      From: 5whys Cats-Team XXKiller
+      From: AdGuard anti-AD 秋风 大萌主 jerryn70 adblock cjx-annoyance 
+      From: 5whys Cats-Team i-dont-care-about-cookies
 
     path: rule #输出规则文件的路径，支持绝对/相对路径
     #输出规则文件列表 （！注意缩进，且每个类型只能输出一个文件）
