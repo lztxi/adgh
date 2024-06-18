@@ -37,7 +37,7 @@ application:
         path: 'https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt'
       
       - name: 'jerryn70-Xiaomi'
-        path: 'https://hub.xjadh.link/https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt'
+        path: 'https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt'
       
       - name: 'abp'
         path: 'https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt'
@@ -59,6 +59,9 @@ application:
       
       - name: 'Cats-Team'
         path: 'https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt'
+
+      - name: 'blackmatrix7'
+        path: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt'
 
     #本地规则文件
     local:
